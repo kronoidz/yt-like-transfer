@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Google OAuth credentials & tokens (your secrets)
+client_secret.json
+client_secret_*.json
+tokens/
+*.token.json
+
+# Your data (exported likes + resume state)
+liked.json
+liked_state.json
+
+# Misc
+.DS_Store
